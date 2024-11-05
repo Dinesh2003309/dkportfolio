@@ -353,6 +353,12 @@ article .icon {
   cursor: default;
 }
 
+/* EXPERIENCE SECTION */
+
+#skills {
+  position: relative;
+}
+
 /* PROJECTS SECTION */
 
 #projects {
